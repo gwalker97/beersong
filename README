@@ -1,0 +1,27 @@
+Graham Walker
+CSI 3370
+Assignment #2 - "BeerSong"
+1/29/2018
+
+
+================== Program Specification =========================
+Main function calls Ninety_Nine_Bottles_of_Beer() Function to print the “99
+Bottles of Beer” song. Assume that your console is a wall where the song will be
+written once your code compiles and executes.
+
+
+================== Program Goal =========================
+Your repository must have “interface” and “implementation” branches. One containing
+the stubbed version of the functions while the other containing implementation. You
+must also show ability to merge these branches to master branch for releasing the code.
+
+You must commit your code as frequently as possible. Each commit must include
+appropriate comment about code changes that you are pushing.
+
+At the end of this assignment, you shall learn following concepts which will be further
+tested through quiz on Jan 29th.
+
+• Working and Remote repository and their storage locations. Importance of
+various git commands and its effect on working or remote repository.
+• Various configuration management concepts
+• Various use of GIT’s command set
